@@ -9,19 +9,23 @@
 .information {
 		background-color: #BDE5F8;
 		color: #00529B;
+		border-color: #00529B;
 }
 
 .success {
 		background-color: #DFF2BF;
 		color: #4F8A10;
+		border-color: #4F8A10;
 }
 
 .warning {
 		background-color: #FEEFB3;
 		color: #9F6000;
+		border-color: #9F6000;
 }
 
 .error {
 		background-color: #FFBABA;
 		color: #D8000C;
+		border-color: #D8000C;
 }
