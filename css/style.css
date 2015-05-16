@@ -1,7 +1,23 @@
 .message-box {
-  width: 300px;
+	width: 300px;
 	height: 20px;
 	border: 2px solid #000;
 	margin-bottom: 10px;
 	padding: 5px;
+}
+
+.information {
+		background-color: #BDE5F8;
+}
+
+.success {
+		background-color: #DFF2BF;
+}
+
+.warning {
+		background-color: #FEEFB3;
+}
+
+.error {
+		background-color: #FFBABA;
 }
